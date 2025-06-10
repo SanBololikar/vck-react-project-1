@@ -1,12 +1,9 @@
-# React + Vite
+# VCK Demo Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project contains website of "Vivekanand college Kolhapur"(VCK).
 
-Currently, two official plugins are available:
+In this site I created a normal Home page with a navigation bar on top containig About page, courses page and contact page.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I added a "Apply now!" button that opens Admission's page...
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## This is my First ever created project....
