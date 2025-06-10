@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import './CourcesPage.css'
+import './CoursesPage.css'
 
 const CoursesPage = () => {
     return (
