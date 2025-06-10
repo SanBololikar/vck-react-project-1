@@ -1,0 +1,42 @@
+.container {
+  display: block;
+  justify-content:center;
+  align-items: center;
+  max-width: 1200px;
+  background: white;
+  margin: 20px auto;
+  margin-left: 200px ;
+  margin-right: 200px ;
+  padding: 50px;
+  border-radius: 20px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+
+}
+
+#Contacth1 {
+  text-align: center;
+  color: navy;
+}
+
+#contactForm {
+    width: 150%;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+input, textarea {
+    width: 95%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+textarea {
+    resize: none;
+}

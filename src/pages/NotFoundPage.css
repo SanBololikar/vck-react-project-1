@@ -1,0 +1,48 @@
+.containerN {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  background: white;
+  margin: 20px 200px;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.not-found {
+  text-align: center;
+  padding: 180px;
+  font-size: 18px;
+}
+
+.not-found h1 {
+  color: black;
+  font-size: 36px;
+}
+
+.not-found p {
+  color: #555;
+  font-size: 20px;
+}
+
+.not-found a {
+  color: white;
+  background-color: navy;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 20px;
+  transition: 0.3s ease-in-out;
+}
+
+.not-found a:hover {
+    color: navy;
+  background-color: cyan;
+}
+
+#dino {
+  width: 150px;
+}
